@@ -1,0 +1,3 @@
+---
+ERLANG_VERSION: "18-slim"
+REBAR3_VERSION: "beta-4"
